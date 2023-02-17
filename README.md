@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito sob orientação da [Rocketseat](https://www.rocketseat.com.br/) :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito sob orientação da [Rocketseat](https://www.rocketseat.com.br/) :wave: [Participe de nossa comunidade no Discord!](https://discord.gg/rocketseat)
