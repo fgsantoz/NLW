@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Tasks é um app para ajudar a registrar seus hábitos e tarefas do dia-dia.
 
-- [Visite o projeto online](https://fgsantoz.github.io/tasks)
+- [Visite o projeto online](https://fgsantoz.github.io/tasks-nlw)
 
 ## 📰 Layout
 
