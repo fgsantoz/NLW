@@ -21,7 +21,7 @@ Aplicativo Web desenvolvido durante o NLW, evento promovido pela Rocketseat para
   <img alt="projeto Task Log" src=".github/preview.png" width="100%">
 </p>
 
-## 🤖 Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -30,17 +30,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git / Github
 - Figma
 
-## 💻 Projeto
+## Projeto
 
 O Tasks é um app para ajudar a registrar seus hábitos e tarefas do dia-dia.
 
 - [Visite o projeto online](https://fgsantoz.github.io/tasks-nlw)
 
-## 📰 Layout
+## Layout
 
 [Clique áqui](https://www.figma.com/file/CwvILzFSg7GLpvl4bG74CI/Tasks?t=MY2lXvvGKLRRIwp6-1) para ter acesso ao design do projeto. É necessário ter conta no [Figma](https://figma.com).
 
-## ⚖ Licença
+## Licença
 
 Esse projeto está sob a licença MIT.
 
