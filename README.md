@@ -1,4 +1,4 @@
-<h1 align="center"> Tasks (e) </h1>
+<h1 align="center"> Habits (e) </h1>
 
 <p align="center">
 Web application developed during NLW, an event promoted by Rocketseat for teaching web technologies. <br/>
@@ -6,7 +6,7 @@ Web application developed during NLW, an event promoted by Rocketseat for teachi
 
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Access">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Access">Access</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-UI-Design">UI Design</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-License">License</a>
 </p>
