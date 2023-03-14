@@ -6,7 +6,7 @@ Web application developed during NLW, an event promoted by Rocketseat for teachi
 
 <p align="center">
   <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Access">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#UI-Design">UI Design</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#License">License</a>
 </p>
@@ -21,9 +21,7 @@ Web application developed during NLW, an event promoted by Rocketseat for teachi
   <img alt="projeto Task Log" src=".github/cover/preview.png" width="100%">
 </p>
 
-<img src=".github/icons/tech.svg" alt="tech" height="25">
-
-## <img src=".github/icons/tech.svg" alt="tech" height="25">Technologies
+## <img src=".github/icons/tech.svg" alt="tech" height="30">Technologies
 
 This project was developed using the following technologies:
 
@@ -32,17 +30,17 @@ This project was developed using the following technologies:
 - Git / Github
 - Figma
 
-## Project
+## <img src=".github/icons/access.svg" alt="access" height="30">Access
 
 Habits is an app to help you keep track of your daily habits and tasks.
 
 - [Visit the project online](https://fgsantoz.github.io/habitsapp-nlw)
 
-## UI Design
+## <img src=".github/icons/design.svg" alt="design" height="30">UI Design
 
 [Click here](https://www.figma.com/file/CwvILzFSg7GLpvl4bG74CI/Tasks?t=MY2lXvvGKLRRIwp6-1) to access the project design. A [Figma](https://figma.com) account is required.
 
-## License
+## <img src=".github/icons/license.svg" alt="license" height="30">License
 
 This project is under the MIT license.
 
