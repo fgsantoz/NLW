@@ -7,7 +7,7 @@ Web application developed during NLW, an event promoted by Rocketseat for teachi
 <p align="center">
   <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#UI Design">UI Design</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#UI-Design">UI Design</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#License">License</a>
 </p>
 <br />
@@ -21,7 +21,9 @@ Web application developed during NLW, an event promoted by Rocketseat for teachi
   <img alt="projeto Task Log" src=".github/cover/preview.png" width="100%">
 </p>
 
-## Technologies
+<img src=".github/icons/tech.svg" alt="tech" height="25">
+
+## <img src=".github/icons/tech.svg" alt="tech" height="25">Technologies
 
 This project was developed using the following technologies:
 
