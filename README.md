@@ -18,7 +18,7 @@ Aplicativo Web desenvolvido durante o NLW, evento promovido pela Rocketseat para
 <br>
 
 <p align="center">
-  <img alt="projeto Task Log" src=".github/preview.png" width="100%">
+  <img alt="projeto Task Log" src=".github/cover/preview.png" width="100%">
 </p>
 
 ## Tecnologias
