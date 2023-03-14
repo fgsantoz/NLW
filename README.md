@@ -5,10 +5,14 @@ Web application developed during NLW, an event promoted by Rocketseat for teachi
 </p>
 
 <p align="center">
-  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-UI Design">UI Design</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-License">License</a>
+  [Technologies](#Technologies)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  [Project](#Project)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  [UI Design](#UI Design)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  [License](#License)
+  <!-- <a href="##-Technologies">Technologies</a>
+  <a href="##-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##-UI Design">UI Design</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##-License">License</a> -->
 </p>
 <br />
 <p align="center">
@@ -21,7 +25,7 @@ Web application developed during NLW, an event promoted by Rocketseat for teachi
   <img alt="projeto Task Log" src=".github/cover/preview.png" width="100%">
 </p>
 
-## Technologies
+## Technologies {#Technologies}
 
 This project was developed using the following technologies:
 
@@ -30,17 +34,17 @@ This project was developed using the following technologies:
 - Git / Github
 - Figma
 
-## Project
+## Project {#Project}
 
 Habits is an app to help you keep track of your daily habits and tasks.
 
 - [Visit the project online](https://fgsantoz.github.io/habitsapp-nlw)
 
-## UI Design
+## UI Design {#UI Design}
 
 [Click here](https://www.figma.com/file/CwvILzFSg7GLpvl4bG74CI/Tasks?t=MY2lXvvGKLRRIwp6-1) to access the project design. A [Figma](https://figma.com) account is required.
 
-## License
+## License {#License}
 
 This project is under the MIT license.
 
