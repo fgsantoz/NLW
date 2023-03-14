@@ -1,14 +1,14 @@
 <h1 align="center"> Tasks (e) </h1>
 
 <p align="center">
-Aplicativo Web desenvolvido durante o NLW, evento promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Web application developed during NLW, an event promoted by Rocketseat for teaching web technologies. <br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="## technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="## Project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="## UI Design">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="## License">Licença</a>
 </p>
 <br />
 <p align="center">
@@ -21,29 +21,29 @@ Aplicativo Web desenvolvido durante o NLW, evento promovido pela Rocketseat para
   <img alt="projeto Task Log" src=".github/cover/preview.png" width="100%">
 </p>
 
-## Tecnologias
+## Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - HTML / CSS
 - JavaScript
 - Git / Github
 - Figma
 
-## Projeto
+## Project
 
-O Tasks é um app para ajudar a registrar seus hábitos e tarefas do dia-dia.
+Habits is an app to help you keep track of your daily habits and tasks.
 
-- [Visite o projeto online](https://fgsantoz.github.io/tasks-nlw)
+- [Visit the project online](https://fgsantoz.github.io/habitsapp-nlw)
 
-## Layout
+## UI Design
 
-[Clique áqui](https://www.figma.com/file/CwvILzFSg7GLpvl4bG74CI/Tasks?t=MY2lXvvGKLRRIwp6-1) para ter acesso ao design do projeto. É necessário ter conta no [Figma](https://figma.com).
+[Click here](https://www.figma.com/file/CwvILzFSg7GLpvl4bG74CI/Tasks?t=MY2lXvvGKLRRIwp6-1) to access the project design. A [Figma](https://figma.com) account is required.
 
-## Licença
+## License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
 ---
 
-Feito sob orientação da [Rocketseat](https://www.rocketseat.com.br/) :wave: [Participe de nossa comunidade no Discord!](https://discord.gg/rocketseat)
+Made under the guidance of [Rocketseat](https://www.rocketseat.com.br/) :wave: [Join our community on Discord!](https://discord.gg/rocketseat)
